@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Gulp
+gulpfile.js
+
+# Sass cache (aunque ya no suele usarse)
+.sass-cache/
+
+# Archivos de salida
+build/
+dist/
+
+# VSCode settings
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Environment files (si los usas)
+.env
+.env.*.local
+
+# Logs
+*.log
+
+# Compilaciones temporales
+*.tmp
+*.temp
